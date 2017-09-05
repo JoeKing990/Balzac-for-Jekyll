@@ -3,7 +3,7 @@ layout: post-light-feature
 title: Dee Tavt Bivt
 description: Achev ev dee tsavuw bivt.
 categories: articles
-date: {}
+date: {2017-09-05}
 image:
   feature: soft-trees.jpg
 published: true
